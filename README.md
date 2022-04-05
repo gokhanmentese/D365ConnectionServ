@@ -5,4 +5,7 @@ As part of initial setup Application User & Azure AD App is required if you donâ
 
 All the necessary packages should be installed, package Microsoft.CrmSdk.XrmTooling.CoreAssembly version should be 9.1.0.13 or higher in order to connect using ClientSecret.
 
+![organizationService](https://user-images.githubusercontent.com/69807493/161737992-5eea239b-28b8-4f9b-96be-0229f2722c3c.png)
+
+
 Feel free to get back in case of any suggestions/queries.
