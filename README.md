@@ -3,6 +3,10 @@ This code has been written with only intention to save developer's time while te
 
 As part of initial setup Application User & Azure AD App is required if you don’t have it already please create application user. Once you have all the details, prepare connection string as shown below and use AuthType=ClientSecret here.
 
+To prepare Application User, please visit.
+
+https://www.cozumpark.com/dynamics-365-uygulama-kullanicisi/
+
 All the necessary packages should be installed, package Microsoft.CrmSdk.XrmTooling.CoreAssembly version should be 9.1.0.13 or higher in order to connect using ClientSecret.
 
 ![organizationService](https://user-images.githubusercontent.com/69807493/161737992-5eea239b-28b8-4f9b-96be-0229f2722c3c.png)
